@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/road_graph_utility.dir/road_graph_utility.cpp.o -o road_graph_utility  -Wl,-rpath,/home/mon/Desktop/testTask/build: libroadgraph.so 
