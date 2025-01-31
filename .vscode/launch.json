@@ -1,0 +1,28 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug Road Graph Utility",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/road_graph_utility",
+            "args": [
+                "${workspaceFolder}/manhattan_edges.bin",
+                "${workspaceFolder}/manhattan_nodes.bin"
+            ],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "/usr/bin/gdb",
+            "setupCommands": [
+                {
+                    "text": "-enable-pretty-printing",
+                    "description": "Enable pretty-printing for gdb",
+                    "ignoreFailures": true
+                }
+            ],
+            "externalConsole": true,
+            "preLaunchTask": "CMake Build"
+        }
+    ]
+}

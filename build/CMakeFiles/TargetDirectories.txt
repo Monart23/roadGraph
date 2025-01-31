@@ -1,0 +1,9 @@
+/home/mon/Desktop/testTask/build/CMakeFiles/roadgraph.dir
+/home/mon/Desktop/testTask/build/CMakeFiles/road_graph_utility.dir
+/home/mon/Desktop/testTask/build/CMakeFiles/remove.dir
+/home/mon/Desktop/testTask/build/CMakeFiles/edit_cache.dir
+/home/mon/Desktop/testTask/build/CMakeFiles/rebuild_cache.dir
+/home/mon/Desktop/testTask/build/CMakeFiles/list_install_components.dir
+/home/mon/Desktop/testTask/build/CMakeFiles/install.dir
+/home/mon/Desktop/testTask/build/CMakeFiles/install/local.dir
+/home/mon/Desktop/testTask/build/CMakeFiles/install/strip.dir
